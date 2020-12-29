@@ -7,6 +7,6 @@ it will print modules of 2
 
 
 ## Multiplications
-* 2 multiplies
+*  it ask for a user input and it will give a table up to 10 times
 
 ### Bharath
