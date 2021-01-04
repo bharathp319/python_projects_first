@@ -6,7 +6,7 @@ def even_odd():
     if num % 2 == 0:
         even.append(num)
     else:
-       odd.append(num)
+        odd.append(num)
     print(even, odd)
 
 even_odd()
